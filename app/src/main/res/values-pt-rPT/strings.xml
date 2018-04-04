@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar ou Registar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">O email é inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="permission_rationale">Permição de Contactos é necessária para auto completar emails.</string>
+    <string name="username_form">Nome de Utilizador (*)</string>
+    <string name="confirm_password">Confirmar Senha (*)</string>
+    <string name="action_register">Registar</string>
+    <string name="telephone_form">Telefone</string>
+    <string name="mobile_phone_form">Telemóvel</string>
+    <string name="address_form">Morada (*)</string>
+    <string name="zipcode_form">Código Postal (*)</string>
+    <string name="locality_form">Localidade (*)</string>
+    <string name="tax_id_number_form">NIF</string>
+    <string name="idNumber_form">Nº do CC</string>
+    <string name="create_a_new_one">Crie uma nova</string>
+    <string name="return_to_login_screen">Voltar ao ecrã de login</string>
+    <string name="ignore_this_field">Ignore este campo</string>
+    <string name="role_code">Código de Função:</string>
+    <string name="title_activity_login">Entrar</string>
+    <string name="user_register_was_sucessful">Utilizador registado com sucesso!</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="email">Email (*)</string>
+    <string name="fields_marked_with_are_required">Campos marcados com (*) são obrigatórios</string>
+    <string name="don_t_have_an_account">Não tem uma conta?</string>
+    <string name="username">Nome de Utilizador</string>
+    <string name="welcome">Bem vindo</string>
+    <string name="map">Mapa</string>
+    <string name="logout">Sair</string>
+    <string name="address">Morada</string>
+    <string name="username2">Nome de Utilizador:</string>
+    <string name="profile">Perfil</string>
+    <string name="go_back">Voltar</string>
+    <string name="address2">Morada:</string>
+    <string name="example">Exemplo</string>
+    <string name="system_manager_operations_would_be_here">Operações do Gestor de Sistema seriam aqui</string>
+    <string name="sm_operation">Operação GS</string>
+    <string name="back_office_manager_operations_would_be_here">Operações do Gestor de Back Office seriam aqui</string>
+    <string name="bom_operation">Operação GBO</string>
+</resources>

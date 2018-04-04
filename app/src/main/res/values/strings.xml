@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="username_form">Username (*)</string>
+    <string name="confirm_password">Confirm Password (*)</string>
+    <string name="action_register">Register</string>
+    <string name="telephone_form">Telephone</string>
+    <string name="mobile_phone_form">Mobile Phone</string>
+    <string name="address_form">Address (*)</string>
+    <string name="zipcode_form">Zip Code (*)</string>
+    <string name="locality_form">Locality (*)</string>
+    <string name="idNumber_form">ID Number</string>
+    <string name="tax_id_number_form">Tax ID Number</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="create_a_new_one">Create a new one</string>
+    <string name="user_register_was_sucessful">User register was sucessfull!</string>
+    <string name="return_to_login_screen">Return to login screen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ignore_this_field">Ignore this field</string>
+    <string name="role_code">Role Code:</string>
+    <string name="email">Email (*)</string>
+    <string name="fields_marked_with_are_required">Fields marked with (*) are required</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="username">Username</string>
+    <string name="title_activity_cenas">Cenas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="map">Map</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="go_back">Go back</string>
+    <string name="address">Address</string>
+    <string name="username2">Username:</string>
+    <string name="address2">Address:</string>
+    <string name="example">Example</string>
+    <string name="system_manager_operations_would_be_here">System Manager Operations would be here</string>
+    <string name="sm_operation">SM Operation</string>
+    <string name="back_office_manager_operations_would_be_here">Back office manager operations would be here</string>
+    <string name="bom_operation">BOM Operation</string>
+</resources>
